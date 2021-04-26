@@ -1,0 +1,14 @@
+{
+    "name": "dsf/sdf",
+    "description": "sdfsdf",
+    "authors": [
+        {
+            "name": "tantangin",
+            "email": "irsan00mansyur@gmail.com"
+        }
+    ],
+    "require": {
+        "chriskacerguis/codeigniter-restserver": "^3.1",
+        "guzzlehttp/guzzle": "^7.3"
+    }
+}
